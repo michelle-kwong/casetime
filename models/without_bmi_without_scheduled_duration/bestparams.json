@@ -1,0 +1,17 @@
+{
+    "units_l1": 432,
+    "activation_l1": "selu",
+    "dropout_l1": 0.45335681653065174,
+    "n_layers": 3,
+    "units_l2": 330,
+    "activation_l2": "relu",
+    "dropout_l2": 0.23933853607754463,
+    "units_l3": 91,
+    "activation_l3": "relu",
+    "dropout_l3": 0.25119058777695996,
+    "units_l4": 444,
+    "activation_l4": "elu",
+    "dropout_l4": 0.26756970082858217,
+    "lr": 0.0005206139011358816,
+    "batch_size": 121
+}
